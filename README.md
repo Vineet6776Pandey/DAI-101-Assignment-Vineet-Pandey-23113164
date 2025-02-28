@@ -1,8 +1,8 @@
 # DAI-101-Assignment-Vineet-Pandey-23113164
-Name :-  Vineet Pandey \n
-Enrollment no.: 23113164
-Branch : Civil Engineering (CE-06)
-Email id: vineet_p@ce.iitr.ac.in
+Name :-  Vineet Pandey <br>
+Enrollment no.: 23113164<br>
+Branch : Civil Engineering (CE-06)<br>
+Email id: vineet_p@ce.iitr.ac.in<br>
 
 ## Analysis on INDIAN CAR MARKET DATASET
 #  kaggle dataset link: https://www.kaggle.com/datasets/ak0212/indian-car-market-dataset
